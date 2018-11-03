@@ -1,0 +1,62 @@
+[
+  {
+    "letter": "A",
+    "clicked": false,
+    "src": "images/cartoon/Bunny.png"
+  },
+  {
+    "letter": "B",
+    "clicked": false,
+    "src": "images/cartoon/Cinderella.jpeg"
+  },
+  {
+    "letter": "C",
+    "clicked": false,
+    "src": "images/cartoon/DonaldDuck.jpeg"
+  },
+  {
+    "letter": "D",
+    "clicked": false,
+    "src": "images/cartoon/Dora.jpeg"
+  },
+  {
+    "letter": "E",
+    "clicked": false,
+    "src": "images/cartoon/Jerry.png"
+  },
+  {
+    "letter": "F",
+    "clicked": false,
+    "src": "images/cartoon/MickyMouse.jpeg"
+  },
+  {
+    "letter": "G",
+    "clicked": false,
+    "src": "images/cartoon/Mogli.jpeg"
+  },
+  {
+    "letter": "H",
+    "clicked": false,
+    "src": "images/cartoon/MrBean.jpeg"
+  },
+  {
+    "letter": "I",
+    "clicked": false,
+    "src": "images/cartoon/PeppaPig.jpeg"
+  },
+  {
+    "letter": "J",
+    "clicked": false,
+    "src": "images/cartoon/SpongeBob.png"
+  },
+  {
+    "letter": "K",
+    "clicked": false,
+    "src": "images/cartoon/Tom.jpeg"
+  },
+  {
+    "letter": "L",
+    "clicked": false,
+    "src": "images/cartoon/Tweety.png"
+  }
+]

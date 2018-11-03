@@ -1,6 +1,7 @@
-import React from "react";
-import PortfolioContainer from "./components/PortfolioContainer";
+import React, { Component } from "react";
+import "./App.css";
+import GameContainer from "./components/gamecontainer";
 
-const App = () => <PortfolioContainer />;
+const App = () => <GameContainer />;
 
 export default App;

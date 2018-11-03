@@ -1,0 +1,21 @@
+* {
+  font-family: "Kodchasan", sans-serif;
+}
+.main-wrapper {
+  width: 85%;
+  margin: auto;
+}
+
+.jumbotron {
+  background: rgb(255, 0, 0);
+  background: linear-gradient(
+    321deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(110, 0, 186, 1) 60%,
+    rgba(0, 74, 255, 1) 100%
+  );
+  color: white;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+    2px 2px 0 #000;
+  border-radius: 5px;
+}
